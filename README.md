@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siddiqua14&label=Profile%20views&color=0e75b6&style=flat" alt="siddiqua14" /> </p>
 
-- 🔭 As a Webmaster I’m currently working on [IEEE AUST Student Branch](https://ieeeaustsb.org/)
+- Former Webmaster at [IEEE AUST Student Branch](https://ieeeaustsb.org/)
 
 - More about me [https://siddiqua14.github.io/](https://siddiqua14.github.io/)
 
