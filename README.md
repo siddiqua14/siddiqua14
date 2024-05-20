@@ -6,7 +6,7 @@
 
 - Former Webmaster at [IEEE AUST Student Branch](https://ieeeaustsb.org/)
 
-- More about me [https://siddiqua14.github.io/](https://siddiquamumu.netlify.app/)
+- More about me [Siddiqua Mumu](https://siddiquamumu.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
