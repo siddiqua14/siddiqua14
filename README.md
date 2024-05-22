@@ -35,12 +35,11 @@ More about me [Siddiqua Mumu](https://siddiquamumu.netlify.app/)
 <hr/>
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/siddiqua14/siddiqua14/output/github-contribution-grid-snake-dark.svg"/>
   
-  
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/siddiqua14/siddiqua14/output/github-contribution-grid-snake-dark.svg"/>  
 </div>
 <hr/>
+
 <div align=center>
  <img width=350 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=siddiqua14&theme=react&border_radius=10" alt="streak stats"/>
 <img width=350 align="center" src="https://github-readme-stats.vercel.app/api?username=siddiqua14&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
