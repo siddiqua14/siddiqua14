@@ -7,7 +7,7 @@
   
 </h1>
 
-<h3 align="center">A passionate wevdeveloper </h3>
+<h3 align="center">A passionate webdeveloper </h3>
 
 <div align="center">
  
