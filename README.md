@@ -15,7 +15,7 @@
 
 Former Webmaster at [IEEE AUST Student Branch](https://ieeeaustsb.org/)
 
-More about me [Siddiqua Mumu](https://siddiquamumu.netlify.app/) 
+More about me [Siddiqua Mumu](https://siddiqua-mumu.netlify.app/) 
 <h3 align="center">Connect with me:</h3>
 <a href="https://twitter.com/siddiqua__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="siddiqua__" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sumaiya siddiqua mumu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sumaiya siddiqua mumu" height="30" width="40" /></a>
